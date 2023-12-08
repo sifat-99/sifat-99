@@ -18,7 +18,7 @@
 <br />
 
 
-## :computer: Technologies that I know
+## :computer Technologies that I know
 
 
 
