@@ -4,7 +4,7 @@
 
 
 <p aligh="center">
-  <a  href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=sifat-99&theme=midnight-purple&card_width=700" alt="GitHub Streak" /></a>
+  <a align="center"  href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=sifat-99&theme=midnight-purple&card_width=700" alt="GitHub Streak" /></a>
 </p>
 
 
