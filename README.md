@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sifat-99&theme=midnight-purple&card_width=700)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sifat-99&theme=midnight-purple&card_width=800)](https://git.io/streak-stats)
 
 
 <!--
