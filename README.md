@@ -44,7 +44,7 @@
 
 <div>
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sifat-99&theme=midnight_purple)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sifat-99&theme=midnight_purple)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sifat-99&theme=midnight_purple)
   
 </div>
