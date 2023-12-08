@@ -42,9 +42,9 @@
 ## 🗒️ Laguage I Used
 
 
-<p align="center">
+
   <img width="90%" src="[https://github-readme-streak-stats.herokuapp.com?user=sifat-99&theme=midnight-purple](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sifat-99&theme=midnight_purple)" />
-</p>
+
 
 
 
