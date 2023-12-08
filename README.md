@@ -1,6 +1,8 @@
 ## :chart_with_upwards_trend: Current Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sifat-99&theme=midnight-purple&card_width=800)](https://git.io/streak-stats)
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=sifat-99&theme=midnight-purpleF" />
+</p>
 
 ## :mailbox: Reach me out
 
