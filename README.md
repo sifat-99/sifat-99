@@ -1,4 +1,4 @@
-### Hi there 👋
+## :chart_with_upwards_trend: Current Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sifat-99&theme=midnight-purple&card_width=800)](https://git.io/streak-stats)
 
