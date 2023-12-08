@@ -18,11 +18,11 @@
 <br />
 
 
-## :computer Technologies that I know
+## 📫 Technologies that I know
 
 
 
-## 🗒️: Laguage I Used
+## 🗒️ Laguage I Used
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)]([https://githubtrends.io](https://api.githubtrends.io/auth/redirect?private_access=False&code=1176443c42141337c19d))
 
