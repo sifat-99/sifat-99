@@ -3,7 +3,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=sifat-99&theme=midnight-purple&card_width=800)](https://git.io/streak-stats)
 
 
-<a aligh="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sifat-99&theme=midnight-purple&card_width=700" alt="GitHub Streak" /></a>
+<p aligh="center">
+  <a  href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sifat-99&theme=midnight-purple&card_width=700" alt="GitHub Streak" /></a>
+</p>
 
 
 <!--
