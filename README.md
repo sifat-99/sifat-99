@@ -44,6 +44,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sifat-99&theme=midnight_purple)
 
 
+![GitHub Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sifat-99&theme=midnight_purple)
+
+
+
 <!--
 **sifat-99/sifat-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
