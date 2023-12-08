@@ -9,6 +9,8 @@
 
 ## :computer: Technologies that I know
 
+[![GitHub Trends SVG]([https://api.githubtrends.io/user/svg/avgupta456/langs](https://api.githubtrends.io/auth/redirect?private_access=False&code=1176443c42141337c19d))](https://githubtrends.io)
+
 
 <!--
 **sifat-99/sifat-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
