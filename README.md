@@ -3,6 +3,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=sifat-99&theme=midnight-purple&card_width=800)](https://git.io/streak-stats)
 
 
+<a aligh="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sifat-99&theme=midnight-purple&card_width=700" alt="GitHub Streak" /></a>
+
+
 <!--
 **sifat-99/sifat-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
