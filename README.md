@@ -4,7 +4,7 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=sifat-99&theme=midnight-purple" />
 </p>
 
-## :mailbox: Reach me out
+## 📲 Reach me out
 
 <br />
 
