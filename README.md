@@ -59,7 +59,7 @@
 
 ## Project Overviw
 
-live site link:[employee management] (https://event-management-44c7e.firebaseapp.com/)
+live site link: [employee management](https://event-management-44c7e.firebaseapp.com/)
 
 ## Project Description
 it is a simple employee management system where you can add employee, delete employee, update employee. 
@@ -82,10 +82,7 @@ hr can pay the users
 - Node.js
 
 
-
- #assignment_category_0004
-
-- [Relux Pacific](https://assignment-11-0004.web.app) 
+###[Relux Pacific](https://assignment-11-0004.web.app) 
 
 #Features:
 - This is a simple website of Relux Pacific Hotel.
@@ -112,7 +109,7 @@ hr can pay the users
 
 
 #Website Link: 
-- [S.K Telecom](https://assignment-10-21546.web.app/)
+- ##[S.K Telecom](https://assignment-10-21546.web.app/)
 
 
 #Features:
