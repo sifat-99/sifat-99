@@ -57,6 +57,82 @@
 
 
 
+## Project Overviw
+
+live site link:[employee management] (https://event-management-44c7e.firebaseapp.com/)
+
+## Project Description
+it is a simple employee management system where you can add employee, delete employee, update employee. 
+admin can make a user HR or user. can delete a user, 
+hr can pay the users
+
+
+## technologies used
+- React
+- React Router
+- MUI
+- Firebase
+- React Hook Form
+- React Hook
+- React Context API
+- React Router
+- React Router Dom
+- MongoDB
+- Express
+- Node.js
+
+
+
+ #assignment_category_0004
+
+- [Relux Pacific](https://assignment-11-0004.web.app) 
+
+#Features:
+- This is a simple website of Relux Pacific Hotel.
+- You can see the Room details by clicking on the navigation by category.
+- You can Book a room for your any calender time.
+- You can see Your Booking on your Booking Section.
+- Booking section are conditional for canceling the booking and booking availability.
+- You can Subscribe to get notification for any news and available seat off rooms. 
+
+
+#Technology Used:
+- React
+- React Router
+- React Vite
+- Material UI
+- Tailwind CSS
+- Firebase
+- MongoDB
+- Axios JS
+- CRUD Operations.
+- HTML
+
+
+
+
+#Website Link: 
+- [S.K Telecom](https://assignment-10-21546.web.app/)
+
+
+#Features:
+- This is a simple website of S.K Telecom.
+- You can see the product details by clicking on the product.
+- You can add the product to the cart.
+- You can see the total price of the product.
+- admin can update product details and price
+
+#Technology Used:
+- React
+- React Router
+- React Vite
+- daisyUI
+- Tailwind CSS
+- Firebase
+- HTML
+
+
+
 
 
 <!--
