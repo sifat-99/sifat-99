@@ -82,7 +82,7 @@ hr can pay the users
 - Node.js
 
 
-###[Relux Pacific](https://assignment-11-0004.web.app) 
+[Relux Pacific](https://assignment-11-0004.web.app) 
 
 #Features:
 - This is a simple website of Relux Pacific Hotel.
@@ -109,7 +109,7 @@ hr can pay the users
 
 
 #Website Link: 
-- ##[S.K Telecom](https://assignment-10-21546.web.app/)
+[S.K Telecom](https://assignment-10-21546.web.app/)
 
 
 #Features:
