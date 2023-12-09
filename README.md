@@ -3,6 +3,15 @@
 <img src="https://raw.githubusercontent.com/sifat-99/sifat-99/main/images/CoverBanner.png" />
 </a>
 
+## : About me
+
+<p align="center">
+  As a Junior Developer, I specialize in React for building dynamic user interfaces, and I bring a touch of design finesse using Tailwind CSS and Material-UI. On the backend, I'm honing my skills with Node.js and MongoDB, ensuring a holistic understanding of web development. Eager to learn and grow, I'm dedicated to staying updated with the latest industry practices. My goal is to contribute effectively to any team by combining my passion for innovation with a solid foundation in these technologies.
+</p>
+
+
+
+
 
 ## :chart_with_upwards_trend: Current Stats
 <br />
