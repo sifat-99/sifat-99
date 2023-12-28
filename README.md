@@ -42,22 +42,7 @@
 </p>
 <br/>
 
-<br>
-<p align="center">
-<img src="https://raw.githubusercontent.com/sifat-99/sifat-99/main/images/icons/HTML.png"/>
-<img src="https://raw.githubusercontent.com/sifat-99/sifat-99/main/images/icons/JavaScript.png"/>
-<img src="https://raw.githubusercontent.com/sifat-99/sifat-99/main/images/icons/cpp.png"/>
-<img src="https://raw.githubusercontent.com/sifat-99/sifat-99/main/images/icons/css.png"/>
-<img src="https://raw.githubusercontent.com/sifat-99/sifat-99/main/images/icons/express.png"/>
-<img src="https://raw.githubusercontent.com/sifat-99/sifat-99/main/images/icons/firebase.png"/>
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/sifat-99/sifat-99/main/images/icons/mongo.png"/>
-<img src="https://raw.githubusercontent.com/sifat-99/sifat-99/main/images/icons/node.png"/>
-<img src="https://raw.githubusercontent.com/sifat-99/sifat-99/main/images/icons/react.png"/>
-<img src="https://raw.githubusercontent.com/sifat-99/sifat-99/main/images/icons/tailwind.png"/>
-</p>
-<br/>
+
 
 
 ## 🗒️ Laguage I Used
