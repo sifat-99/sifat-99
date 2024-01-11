@@ -35,7 +35,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **md.hrshohel@engineer.com**
+- 📫 How to reach me ****
 
 - 📄 Know about me and my experiences from my repositories
 
