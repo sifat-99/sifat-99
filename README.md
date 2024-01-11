@@ -29,13 +29,13 @@
 
 - 🔭 I’m currently working on Open Source contribution.
 
-- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, Deep Learning, Different Frameworks and Cyber Security.**
+- 🌱 I’m currently learning **Node.js, C++, Next.js, Different Frameworks and Libraries.**
 
 - 👯 I’m looking to collaborate on Full Stack Development.
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me ****
+- 📫 How to reach me **mdabdurrahmansifat@gmail.com**
 
 - 📄 Know about me and my experiences from my repositories
 
