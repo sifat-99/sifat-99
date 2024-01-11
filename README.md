@@ -109,6 +109,9 @@
 
 [![sifat99's Holopin Holopin profile](https://holopin.me/sifat99)](https://holopin.io/@sifat99)
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=sifat-99&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 ## Project Overviw
