@@ -114,50 +114,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=sifat-99&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-## Project Overviw
-
-live site link: [employee management](https://event-management-44c7e.firebaseapp.com/)
-
-## Project Description
-it is a simple employee management system where you can add employee, delete employee, update employee. 
-admin can make a user HR or user. can delete a user, 
-hr can pay the users
 
 
-## technologies used
-- React
-- React Router
-- MUI
-- Firebase
-- React Hook Form
-- React Hook
-- React Context API
-- React Router
-- React Router Dom
-- MongoDB
-- Express
-- Node.js
-
-
-#Website Link: 
-[S.K Telecom](https://assignment-10-21546.web.app/)
-
-
-#Features:
-- This is a simple website of S.K Telecom.
-- You can see the product details by clicking on the product.
-- You can add the product to the cart.
-- You can see the total price of the product.
-- admin can update product details and price
-
-#Technology Used:
-- React
-- React Router
-- React Vite
-- daisyUI
-- Tailwind CSS
-- Firebase
-- HTML
 
 
 
