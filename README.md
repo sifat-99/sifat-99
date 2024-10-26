@@ -114,6 +114,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=sifat-99&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
+## Github Activity
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sifat-99&bg_color=000000&color=ffffff&line=79e75a&point=ff0505&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
