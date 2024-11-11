@@ -63,8 +63,9 @@
 
 ### 📊 Current GitHub Stats:
 ![Sifat's GitHub stats](https://github-readme-stats.vercel.app/api?username=sifat-99\&show_icons=true&theme=tokyonight\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=sifat-99&theme=aura&hide_border=false)
 <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sifat-99&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sifat-99&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
