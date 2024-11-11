@@ -61,11 +61,13 @@
 <br/>
 
 
-## :chart_with_upwards_trend: Current Stats
-<br />
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=sifat-99&theme=midnight-purple&hide_border=true" />
-</p>
+### 📊 GitHub Stats:
+![Sifat's GitHub stats](https://github-readme-stats.vercel.app/api?username=sifat-99\&show_icons=true&theme=aura\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sifat-99&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sifat-99&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
 
 ## 📲 Reach me out
 
@@ -105,13 +107,7 @@
 
 
 
-### 📊 GitHub Stats:
-![Samrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=sifat-99\&show_icons=true&theme=aura\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sifat-99&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sifat-99&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
 <br>
 
 [![sifat99's Holopin Holopin profile](https://holopin.me/sifat99)](https://holopin.io/@sifat99)
