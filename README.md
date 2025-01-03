@@ -48,12 +48,12 @@
     <p align="left">
       As a Junior Developer, I specialize in React for building dynamic user interfaces, and I bring a touch of design finesse using Tailwind CSS and Material-UI. On the backend, I'm honing my skills with Node.js and MongoDB, ensuring a holistic understanding of web development. Eager to learn and grow, I'm dedicated to staying updated with the latest industry practices. My goal is to contribute effectively to any team by combining my passion for innovation with a solid foundation in these technologies.
     </p>
-  </div> -->
+  </div> 
   <div style="flex: 1;">
     <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
   </div>
 </div>
-
+</p>-->
 
 
 
@@ -64,9 +64,11 @@
 ### 📊 Current GitHub Stats:
 ![Sifat's GitHub stats](https://github-readme-stats.vercel.app/api?username=sifat-99\&show_icons=true&theme=tokyonight\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sifat-99&theme=aura&hide_border=false)
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sifat-99&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=sifat-99&theme=aura&hide_border=false)
 
 ---
 
