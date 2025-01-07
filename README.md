@@ -80,6 +80,12 @@
 
 ## 📲 Reach me out
 
+
+
+
+
+
+
 <br />
 
 <div align="center">
@@ -148,5 +154,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+- ⭐ Stars
+- 💖 Attention 
 - ⚡ Fun fact: ...
 -->
