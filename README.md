@@ -76,7 +76,7 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sifat-99&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![](https://github-readme-streak-stats.herokuapp.com?user=sifat-99&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
