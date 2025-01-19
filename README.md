@@ -32,7 +32,7 @@
 
 - 🔭 I’m currently working on Open Source contribution.
 
-- 🌱 I’m currently learning **Spring Boot, C++, Next.js, Different Frameworks and Libraries, Typescript, JAVA. **
+- 🌱 I’m currently learning **Spring Boot, C++, Next.js, Different Frameworks and Libraries, Typescript, JAVA.**
 
 - 👯 I’m looking to collaborate on Full Stack Development.
 
