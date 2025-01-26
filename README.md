@@ -79,7 +79,7 @@
 ---
 
 
-![sifat-99's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sifat-99&theme=vue-dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sifat-99&theme=vue-dark&hide_border=true)
 
 ## 📲 Reach me out
 
